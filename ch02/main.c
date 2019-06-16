@@ -5,7 +5,7 @@
 #include <errno.h>
 #include <poll.h>
 #include <sys/ioctl.h>
-//#include <netinet/ip_icmp.h>
+#include <netinet/ip_icmp.h>
 #include <netinet/if_ether.h>
 #include <net/if.h> // 代わりになる？？
 //#include <linux/if.h>
