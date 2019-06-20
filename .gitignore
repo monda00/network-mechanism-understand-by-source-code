@@ -1,3 +1,4 @@
 tags.lock
 __pycache__
 *.ini
+*.o
