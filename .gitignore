@@ -2,4 +2,5 @@ tags.lock
 __pycache__
 *.ini
 .vagrant
+*.o
 
