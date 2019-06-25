@@ -3,4 +3,5 @@ __pycache__
 *.ini
 .vagrant
 *.o
+.DS_Store
 
